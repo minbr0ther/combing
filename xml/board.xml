@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <board>
+    <name>기가바이트 GA-H110M-DS2V 듀러블에디션 피씨디렉트</name>
+    <picture>board2.jpg</picture>
+    <minprice>63,600</minprice>
+    <maxprice>739,030</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 B250M PRO4 에즈윈</name>
+    <picture>board3.jpg</picture>
+    <minprice>105,000</minprice>
+    <maxprice>150,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 H110M HDV 에즈윈</name>
+    <picture>board4.jpg</picture>
+    <minprice>74,000</minprice>
+    <maxprice>900,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>에이수스 H81M-K STCOM</name>
+    <picture>board5.jpg</picture>
+    <minprice>60,600</minprice>
+    <maxprice>99,000</maxprice>
+    <socket>인텔-소켓1150(하스웰)</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express x16</vgaslot>
+    <maxmem>16GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 H110M-DGS 디앤디컴</name>
+    <picture>board6.jpg</picture>
+    <minprice>57,600</minprice>
+    <maxprice>900,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>에이수스 PRIME B250M-A STCOM</name>
+    <picture>board7.jpg</picture>
+    <minprice>111,500</minprice>
+    <maxprice>170,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>MSI B250M 박격포</name>
+    <picture>board8.jpg</picture>
+    <minprice>101,000</minprice>
+    <maxprice>194,800</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-H81M-DS2V 제이씨현</name>
+    <picture>board9.jpg</picture>
+    <minprice>67,000</minprice>
+    <maxprice>182,960</maxprice>
+    <socket>인텔-소켓1150(하스웰)</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express x16</vgaslot>
+    <maxmem>16GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-B250M-DS3H 듀러블에디션 피씨디렉트</name>
+    <picture>board10.jpg</picture>
+    <minprice>96,000</minprice>
+    <maxprice>198,910</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>바이오스타 H110MH PRO D4 이엠텍</name>
+    <picture>board11.jpg</picture>
+    <minprice>58,240</minprice>
+    <maxprice>88,160</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 H81M-DGS R2.0 디앤디컴</name>
+    <picture>board12.jpg</picture>
+    <minprice>56,250</minprice>
+    <maxprice>77,100</maxprice>
+    <socket>인텔-소켓1150(하스웰)</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 2.0 x16</vgaslot>
+    <maxmem>16GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-H110M-DS2V 듀러블에디션 제이씨현</name>
+    <picture>board13.jpg</picture>
+    <minprice>64,600</minprice>
+    <maxprice>108,430</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 H110M-DVS R2.0 디앤디컴</name>
+    <picture>board14.jpg</picture>
+    <minprice>61,700</minprice>
+    <maxprice>490,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>MSI H110M-A PRO M2</name>
+    <picture>board15.jpg</picture>
+    <minprice>71,000</minprice>
+    <maxprice>81,480</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>MSI B250M 박격포 아틱</name>
+    <picture>board16.jpg</picture>
+    <minprice>117,500</minprice>
+    <maxprice>163,810</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>에이수스 H110M-K iBORA</name>
+    <picture>board17.jpg</picture>
+    <minprice>61,900</minprice>
+    <maxprice>487,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>ECS H81H3-M4 코잇</name>
+    <picture>board18.jpg</picture>
+    <minprice>47,820</minprice>
+    <maxprice>68,180</maxprice>
+    <socket>인텔-소켓1150(하스웰)</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 2.0 x16</vgaslot>
+    <maxmem>16GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-H270-GAMING 3 게이밍에디션 제이씨현</name>
+    <picture>board19.jpg</picture>
+    <minprice>175,000</minprice>
+    <maxprice>244,410</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 X299 AORUS Gaming 3 Pro 제이씨현</name>
+    <picture>board20.jpg</picture>
+    <minprice>449,000</minprice>
+    <maxprice>517,000</maxprice>
+    <socket>인텔-소켓2066</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>128GB</maxmem>
+  </board>
+  <board>
+    <name>컬러풀 Battle AXE B250M-HD</name>
+    <picture>board21.jpg</picture>
+    <minprice>85,920</minprice>
+    <maxprice>107,900</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+  </board>
+  <board>
+    <name>기가바이트 GA-AB350N-Gaming WiFi 게이밍에디션 제이씨현</name>
+    <picture>board22.jpg</picture>
+    <minprice>165,000</minprice>
+    <maxprice>234,610</maxprice>
+    <socket>AMD-소켓AM4</socket>
+    <std>ITX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>ECS DURATHON2 A320AM4-M3D 제이씨현</name>
+    <picture>board23.jpg</picture>
+    <minprice>60,090</minprice>
+    <maxprice>72,000</maxprice>
+    <socket>AMD-소켓AM4</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-B150M-DS3H 듀러블에디션 피씨디렉트</name>
+    <picture>board24.jpg</picture>
+    <minprice>91,000</minprice>
+    <maxprice>900,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 B150M PRO4 에즈윈</name>
+    <picture>board25.jpg</picture>
+    <minprice>99,700</minprice>
+    <maxprice>132,650</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-H270-GAMING 3 게이밍에디션 피씨디렉트</name>
+    <picture>board26.jpg</picture>
+    <minprice>174,000</minprice>
+    <maxprice>227,510</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 H81 PRO BTC R2.0 에즈윈</name>
+    <picture>board27.jpg</picture>
+    <minprice>82,600</minprice>
+    <maxprice>140,000</maxprice>
+    <socket>인텔-소켓1150(하스웰)</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 2.0 x16</vgaslot>
+    <maxmem>16GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 B250M PRO4 디앤디컴</name>
+    <picture>board28.jpg</picture>
+    <minprice>101,000</minprice>
+    <maxprice>141,710</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-B250M-DS3H 듀러블에디션 제이씨현</name>
+    <picture>board29.jpg</picture>
+    <minprice>99,000</minprice>
+    <maxprice>145,610</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 B85M-DGS 디앤디컴</name>
+    <picture>board30.jpg</picture>
+    <minprice>74,290</minprice>
+    <maxprice>97,130</maxprice>
+    <socket>인텔-소켓1150(하스웰)</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>16GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 X299 UD4 PRO 듀러블에디션 제이씨현</name>
+    <picture>board31.jpg</picture>
+    <minprice>383,300</minprice>
+    <maxprice>495,320</maxprice>
+    <socket>인텔-소켓2066</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>128GB</maxmem>
+  </board>
+  <board>
+    <name>에이수스 PRIME Z270-A STCOM</name>
+    <picture>board32.jpg</picture>
+    <minprice>254,500</minprice>
+    <maxprice>361,630</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>48GB</maxmem>
+  </board>
+  <board>
+    <name>MSI X299 토마호크 아틱</name>
+    <picture>board33.jpg</picture>
+    <minprice>438,900</minprice>
+    <maxprice>514,000</maxprice>
+    <socket>인텔-소켓2066</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>128GB</maxmem>
+  </board>
+  <board>
+    <name>MSI B250M 바주카</name>
+    <picture>board34.jpg</picture>
+    <minprice>104,800</minprice>
+    <maxprice>142,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 B250M-HDV 에즈윈</name>
+    <picture>board35.jpg</picture>
+    <minprice>89,000</minprice>
+    <maxprice>130,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>에이수스 H110M-K STCOM</name>
+    <picture>board36.jpg</picture>
+    <minprice>68,000</minprice>
+    <maxprice>99,650</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>기가바이트 GA-H110-D3A BTC 듀러블에디션 제이씨현</name>
+    <picture>board37.jpg</picture>
+    <minprice>89,040</minprice>
+    <maxprice>450,000</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>애즈락 Z270 Taichi 에즈윈</name>
+    <picture>board38.jpg</picture>
+    <minprice>302,000</minprice>
+    <maxprice>369,210</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>ATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>64GB</maxmem>
+  </board>
+  <board>
+    <name>컬러풀 H110M-T Plus</name>
+    <picture>board39.jpg</picture>
+    <minprice>60,820</minprice>
+    <maxprice>88,160</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+  </board>
+  <board>
+    <name>에이수스 H110M-A M.2 STCOM</name>
+    <picture>board40.jpg</picture>
+    <minprice>77,500</minprice>
+    <maxprice>141,441</maxprice>
+    <socket>인텔-소켓1151</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express 3.0 x16</vgaslot>
+    <maxmem>32GB</maxmem>
+  </board>
+  <board>
+    <name>에이수스 H81M-K iBORA</name>
+    <picture>board41.jpg</picture>
+    <minprice>57,390</minprice>
+    <maxprice>76,050</maxprice>
+    <socket>인텔-소켓1150(하스웰)</socket>
+    <std>mATX</std>
+    <vgaslot>PCI Express x16</vgaslot>
+    <maxmem>16GB</maxmem>
+  </board>
+</list>

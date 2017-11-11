@@ -1,0 +1,363 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+  <vga company="emTEC">
+    <name>이엠텍 제논 GF GTX1060 STORM X Dual DDR5 6G</name>
+	<picture>vga1.jpg</picture>
+	<minprice>367,000</minprice>
+    <maxprice>11,390,500</maxprice>
+    <mem>6GB</mem>
+    <clock>1506MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 GF GTX1050 MINi DDR5 2G</name>
+	<picture>vga2.jpg</picture>
+	<minprice>147,230</minprice>
+    <maxprice>215,600</maxprice>
+    <mem>2GB</mem>
+    <clock>1354MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 GF GTX1060 AMP! Edition DDR5 3G</name>
+	<picture>vga3.jpg</picture>
+	<minprice>279,260</minprice>
+    <maxprice>600,000</maxprice>
+    <mem>3GB</mem>
+    <clock>1582MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 GF GTX1050 Ti DUALSILENCER OC DDR5 4G</name>
+	<picture>vga4.jpg</picture>
+	<minprice>198,960</minprice>
+    <maxprice>487,000</maxprice>
+    <mem>4GB</mem>
+    <clock>1392MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GALAX">
+    <name>갤럭시 GF GTX1050 OC DDR5 2G</name>
+	<picture>vga5.jpg</picture>
+	<minprice>148,300</minprice>
+    <maxprice>209,210</maxprice>
+    <mem>2GB</mem>
+    <clock>1366MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GEIL">
+    <name>게일 GF GTX1060 DDR5 3G</name>
+	<picture>vga6.jpg</picture>
+	<minprice>268,500</minprice>
+    <maxprice>305,700</maxprice>
+    <mem>3GB</mem>
+    <clock>1545MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="emTEC">
+    <name>이엠텍 제논 GF GTX1050 STORM X Nano DDR5 2G</name>
+	<picture>vga7.jpg</picture>
+	<minprice>151,000</minprice>
+    <maxprice>1,500,000</maxprice>
+    <mem>2GB</mem>
+    <clock>1354MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GALAX">
+    <name>갤럭시 GF GTX1050 Ti EXOC 개간지 DDR5 4G</name>
+	<picture>vga8.jpg</picture>
+	<minprice>204,000</minprice>
+    <maxprice>680,000</maxprice>
+    <mem>4GB</mem>
+    <clock>1354MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="MSI">
+    <name>MSI GF GTX1060 OC DDR5 3G 윈드스톰</name>
+	<picture>vga9.jpg</picture>
+	<minprice>277,080</minprice>
+    <maxprice>656,640</maxprice>
+    <mem>3GB</mem>
+    <clock>1544MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 GF GTX1060 MiNi DDR5 3G</name>
+	<picture>vga10.jpg</picture>
+	<minprice>263,980</minprice>
+    <maxprice>621,610</maxprice>
+    <mem>3GB</mem>
+    <clock>1506MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="emTEC">
+    <name>이엠텍 제논 GF GTX1070 Super JETSTREAM DDR5 8G</name>
+	<picture>vga11.jpg</picture>
+	<minprice>620,000</minprice>
+    <maxprice>10,700,000</maxprice>
+    <mem>8GB</mem>
+    <clock>1632MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="emTEC">
+    <name>이엠텍 GF GTX1060 STORM X Dual DDR5 3G</name>
+	<picture>vga12.jpg</picture>
+	<minprice>287,500</minprice>
+    <maxprice>11,399,000</maxprice>
+    <mem>3GB</mem>
+    <clock>1506MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 AMP EXTREME CORE GF GTX1080 Ti DDR5X 11G</name>
+	<picture>vga13.jpg</picture>
+	<minprice>1,158,950</minprice>
+    <maxprice>2,221,000</maxprice>
+    <mem>11GB</mem>
+    <clock>1721MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GALAX">
+    <name>갤럭시코리아 갤럭스 GF GTX1060 EXOC 개간지 DDR5 6G</name>
+	<picture>vga14.jpg</picture>
+	<minprice>398,900</minprice>
+    <maxprice>1,000,000</maxprice>
+    <mem>6GB</mem>
+    <clock>1620MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="emTEC">
+    <name>이엠텍 제논 GF GTX1060 Super JETSTREAM DDR5 6G</name>
+	<picture>vga15.jpg</picture>
+	<minprice>399,000</minprice>
+    <maxprice>1,500,000</maxprice>
+    <mem>6GB</mem>
+    <clock>1620MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="MSI">
+    <name>MSI GF GTX1060 게이밍 X DDR5 6G 트윈프로져6</name>
+	<picture>vga16.jpg</picture>
+	<minprice>406,000</minprice>
+    <maxprice>940,600</maxprice>
+    <mem>6GB</mem>
+    <clock>1594MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GALAX">
+    <name>갤럭시 갤럭스 GF GTX1050 OC DDR5 2G LP</name>
+	<picture>vga17.jpg</picture>
+	<minprice>156,900</minprice>
+    <maxprice>191,110</maxprice>
+    <mem>2GB</mem>
+    <clock>1366MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GALAX">
+    <name>갤럭시코리아 갤럭스 GF GTX1060 OC DDR5 6G</name>
+	<picture>vga18.jpg</picture>
+	<minprice>350,500</minprice>
+    <maxprice>600,000</maxprice>
+    <mem>6GB</mem>
+    <clock>1556MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GEIL">
+    <name>게일 GF GTX1060 DDR5 6G</name>
+	<picture>vga19.jpg</picture>
+	<minprice>350,000</minprice>
+    <maxprice>397,800</maxprice>
+    <mem>6GB</mem>
+    <clock>1545MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GEIL">
+    <name>게일 GF GTX1050 Ti DDR5 4G</name>
+	<picture>vga111.jpg</picture>
+	<minprice>180,500</minprice>
+    <maxprice>232,060</maxprice>
+    <mem>4GB</mem>
+    <clock>1290MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="emTEC">
+    <name>이엠텍 제논 GF GTX1050 Ti OC STORM X Dual DDR5 4G</name>
+	<picture>vga112.jpg</picture>
+	<minprice>202,000</minprice>
+    <maxprice>1,500,000</maxprice>
+    <mem>4GB</mem>
+    <clock>1336MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GIGABITE">
+    <name>기가바이트 GF GTX1050 UD2 WF-2X DDR5 2G</name>
+	<picture>vga20.jpg</picture>
+	<minprice>164,500</minprice>
+    <maxprice>303,000</maxprice>
+    <mem>2GB</mem>
+    <clock>1379MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GAINWORD">
+    <name>게인워드 GF GTX1060 게이머 스피릿 DDR5 6G 디앤디컴</name>
+	<picture>vga21.jpg</picture>
+	<minprice>329,000</minprice>
+    <maxprice>435,000</maxprice>
+    <mem>6GB</mem>
+    <clock>1506MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GALAX">
+    <name>갤럭시코리아 갤럭스 GF GTX1060 EXOC 개간지 DDR5 3G</name>
+	<picture>vga22.jpg</picture>
+	<minprice>306,400</minprice>
+    <maxprice>876,600</maxprice>
+    <mem>3GB</mem>
+    <clock>1556MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="geForce">
+    <name>GF GTX1060 Super JETSTREAM DDR5 6G</name>
+	<picture>vga23.jpg</picture>
+	<minprice>397,000</minprice>
+    <maxprice>579,800</maxprice>
+    <mem>6GB</mem>
+    <clock>1847MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 GF GTX1050 Ti MINi DDR5 4G</name>
+	<picture>vga24.jpg</picture>
+	<minprice>188,960</minprice>
+    <maxprice>389,600</maxprice>
+    <mem>4GB</mem>
+    <clock>1303MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GIGABITE">
+    <name>기가바이트 GF GTX1050 Ti UD2 WF-2X DDR5 4G</name>
+	<picture>vga25.jpg</picture>
+	<minprice>209,000</minprice>
+    <maxprice>1,500,000</maxprice>
+    <mem>4GB</mem>
+    <clock>1316MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ASUS">
+    <name>에이수스 DUAL GF GTX1060 O3G DDR5 3G</name>
+	<picture>vga26.jpg</picture>
+	<minprice>284,850</minprice>
+    <maxprice>487,200</maxprice>
+    <mem>3GB</mem>
+    <clock>1569MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 GF GTX1070 MINi DDR5 8G</name>
+	<picture>vga27.jpg</picture>
+	<minprice>559,860</minprice>
+    <maxprice>950,000</maxprice>
+    <mem>8GB</mem>
+    <clock>1518MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ZOTEC">
+    <name>조텍 GF GT1030 DDR5 2G LP</name>
+	<picture>vga28.jpg</picture>
+	<minprice>94,760</minprice>
+    <maxprice>109,000</maxprice>
+    <mem>2GB</mem>
+    <clock>1227MHz</clock>
+    <interface>PCI Express 3.0 4x</interface>
+  </vga>
+  <vga company="GALAX">
+    <name>갤럭시코리아 갤럭스 GF GTX1060 OC DDR5 3G</name>
+	<picture>vga29.jpg</picture>
+	<minprice>279,600</minprice>
+    <maxprice>587,270</maxprice>
+    <mem>3GB</mem>
+    <clock>1518MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="ASUS">
+    <name>에이수스 ROG STRIX GF GTX1080 Ti O11G GAMING DDR5X 11G</name>
+	<picture>vga30.jpg</picture>
+	<minprice>1,129,000</minprice>
+    <maxprice>2,190,000</maxprice>
+    <mem>11GB</mem>
+    <clock>1594MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GIGABITE">
+    <name>기가바이트 GF GTX1070 G1.Gaming DDR5 8G</name>
+	<picture>vga31.jpg</picture>
+	<minprice>604,000</minprice>
+    <maxprice>1,200,000</maxprice>
+    <mem>8GB</mem>
+    <clock>1594MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GEIL">
+    <name>게일 GF GTX1080 DDR5X 8G</name>
+	<picture>vga32.jpg</picture>
+	<minprice>720,000</minprice>
+    <maxprice>822,620</maxprice>
+    <mem>8GB</mem>
+    <clock>1607MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GIGABITE">
+    <name>기가바이트 GF GTX1060 UDV DDR5 3G 윈드포스</name>
+	<picture>vga33.jpg</picture>
+	<minprice>301,400</minprice>
+    <maxprice>600,000</maxprice>
+    <mem>3GB</mem>
+    <clock>1556MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GIGABITE">
+    <name>기가바이트 GF GTX1050 Ti G1.Gaming DDR5 4G</name>
+	<picture>vga34.jpg</picture>
+	<minprice>232,500</minprice>
+    <maxprice>465,000</maxprice>
+    <mem>4GB</mem>
+    <clock>1366MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GIGABITE">
+    <name>기가바이트 GF GTX1060 UDV DDR5 6G 윈드포스</name>
+	<picture>vga35.jpg</picture>
+	<minprice>387,500</minprice>
+    <maxprice>590,000</maxprice>
+    <mem>6GB</mem>
+    <clock>1556MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="MSI">
+    <name>MSI GF GTX1050 Ti OC DDR5 4G 윈드스톰</name>
+	<picture>vga36.jpg</picture>
+	<minprice>184,000</minprice>
+    <maxprice>335,560</maxprice>
+    <mem>4GB</mem>
+    <clock>1341MHz</clock>
+    <interface>PCI Express 3.0 16x</interface>
+  </vga>
+  <vga company="GIGABITE">
+    <name>기가바이트 GF GT730 UD2 DDR3 2G 블랙펄</name>
+	<picture>vga37.jpg</picture>
+	<minprice>77,700</minprice>
+    <maxprice>465,000</maxprice>
+    <mem>2GB</mem>
+    <clock>700MHz</clock>
+    <interface>PCI Express 2.0 16x</interface>
+  </vga>
+  <vga company="ASUS">
+    <name>에이수스 GF GT1030 O2G DDR5 2G</name>
+	<picture>vga38.jpg</picture>
+	<minprice>87,000</minprice>
+    <maxprice>141,960</maxprice>
+    <mem>2GB</mem>
+    <clock>1252MHz</clock>
+    <interface>PCI Express 3.0 4x</interface>
+  </vga>
+</list>

@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
+  <title>COMBING 견적짜보기</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> 
+
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -51,39 +50,61 @@
   </div>
 </nav>
   
-<div class="container-fluid text-center">    
-  <div class="row content">
-    <div class="col-sm-2 sidenav">
-      <p><a href="#">Link</a></p>
-      <p><a href="#">Link</a></p>
-      <p><a href="#">Link</a></p>
-    </div>
-    <div class="col-sm-8 text-left"> 
-      <h1>Welcome</h1>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-      <hr>
-      <h3>Test</h3>
-      <p>Lorem ipsum...</p>
-    </div>
-    <div class="col-sm-2 sidenav">
-      <div class="well">
-        <p>ADS</p>
-      </div>
-      <div class="well">
-        <p>ADS</p>
-      </div>
-    </div>
-  </div>
-</div>
+<header class="masthead">
+  <div class="header-content">
+    <div class="header-content-inner">
 
-<footer class="container-fluid text-center">
-  <p>Footer Text</p>
-</footer>
+      <div class="btnGroup">
+        <!--a id="cpu" class="btn btn-default btn-xs js-scroll-trigger" href="">CPU</a>
+        <a id="vga" class="btn btn-default btn-xs js-scroll-trigger" href="">VGA</a>
+        <a id="board" class="btn btn-default btn-xs js-scroll-trigger" href="">Board</a>
+        <a id="ram" class="btn btn-default btn-xs js-scroll-trigger" href="">RAM</a>
+        <button id="cpu">CPU</button>
+        <button id="vga">VGA</button>
+        <button id="board">MainBoard</button>
+        <button id="ram">RAM</button-->
+
+        <div class="btn-group" data-toggle="buttons">
+          <label id="cpu" class="btn btn-primary active">
+            <input type="radio" name="options" id="option1" autocomplete="off" checked> CPU
+          </label>
+          <label id="vga" class="btn btn-primary">
+            <input type="radio" name="options" id="option2" autocomplete="off"> VGA
+          </label>
+          <label id="board" class="btn btn-primary">
+            <input type="radio" name="options" id="option3" autocomplete="off"> board
+          </label>
+          <label id="ram" class="btn btn-primary">
+            <input type="radio" name="options" id="option3" autocomplete="off"> ram
+          </label>
+          </div>
+
+      </div>
+
+      <!--table class="listTable" 1border="1">
+        <tr> <td><img src="xml/cpu1.jpg"></td> </tr>
+        <tr> <td class="model">인텔 코어i7 7세대 카비레이크 7700K</td> </tr>
+        <tr> <td class="price">가격 : 380,050</td> </tr>
+      </table-->
+
+      <div id="TableArea"> </div>
+   </div>
+  </div>
+</header>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
     <script src="vendor/scrollreveal/scrollreveal.min.js"></script>
     <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- 테이블 불러오기 -->
+    <script src="xml/cpu.js"></script> <script src="xml/vga.js"></script>
+    <script src="xml/board.js"></script><script src="xml/ram.js"></script>
 
     <!-- Custom scripts for this template -->
     <script src="js/creative.min.js"></script>
