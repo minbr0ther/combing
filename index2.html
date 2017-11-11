@@ -55,15 +55,6 @@
     <div class="header-content-inner">
 
       <div class="btnGroup">
-        <!--a id="cpu" class="btn btn-default btn-xs js-scroll-trigger" href="">CPU</a>
-        <a id="vga" class="btn btn-default btn-xs js-scroll-trigger" href="">VGA</a>
-        <a id="board" class="btn btn-default btn-xs js-scroll-trigger" href="">Board</a>
-        <a id="ram" class="btn btn-default btn-xs js-scroll-trigger" href="">RAM</a>
-        <button id="cpu">CPU</button>
-        <button id="vga">VGA</button>
-        <button id="board">MainBoard</button>
-        <button id="ram">RAM</button-->
-
         <div class="btn-group" data-toggle="buttons">
           <label id="cpu" class="btn btn-primary active">
             <input type="radio" name="options" id="option1" autocomplete="off" checked> CPU
@@ -78,16 +69,10 @@
             <input type="radio" name="options" id="option3" autocomplete="off"> ram
           </label>
           </div>
-
       </div>
 
-      <!--table class="listTable" 1border="1">
-        <tr> <td><img src="xml/cpu1.jpg"></td> </tr>
-        <tr> <td class="model">인텔 코어i7 7세대 카비레이크 7700K</td> </tr>
-        <tr> <td class="price">가격 : 380,050</td> </tr>
-      </table-->
-
       <div id="TableArea"> </div>
+
    </div>
   </div>
 </header>
@@ -103,6 +88,7 @@
     <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
 
     <!-- 테이블 불러오기 -->
+    <script src="xml/firstDisplay.js"></script>
     <script src="xml/cpu.js"></script> <script src="xml/vga.js"></script>
     <script src="xml/board.js"></script><script src="xml/ram.js"></script>
 
